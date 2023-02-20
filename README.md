@@ -1,4 +1,4 @@
-# algorithm_practice
+# Yandex Inerview Kit
 ## Algo 3
 - 1 Две суммы
 - 2 Сложить два списка как число
