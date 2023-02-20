@@ -1,0 +1,73 @@
+# algorithm_practice
+
+## Algo 5 pt.1
+- 1	Line Reflection
+- 2	Longest Subarray of 1's After Deleting One Element
+- 3	Summary Ranges
+- 4	String Compression
+- 5	Zigzag Iterator
+- 6	Valid Palindrome
+- 7	One Edit Distance
+- 8	Subarray Sum Equals K
+- 9	Move Zeroes
+- 10	Group Anagrams
+- 11	Insert Delete GetRandom O(1)
+- 12	LRU Cache
+- 13	Generate Parentheses
+- 14	Reverse Linked List
+- 15	Permutation in String
+- 16	Merge k Sorted Lists
+- 17	Number of Recent Calls
+- 18	Valid Parentheses
+- 19	Max Consecutive Ones II
+- 20	Maximize Distance to Closest Person
+- 21	Design Hit Counter
+- 22	Merge Intervals
+- 23	Trapping Rain Water
+- 24	Two Sum
+- 25	Meeting Rooms II
+- 26	Find All Anagrams in a String
+- 27	Implement Rand10() Using Rand7()
+- 28	Symmetric Tree
+- 29	Longest Substring Without Repeating Characters
+- 30	Validate Binary Search Tree
+- 31	Number of Islands
+- 32	Flatten Nested List Iterator
+- 33	Consecutive Characters
+- 34	Interval List Intersections
+
+## Algo 5 pt.2
+- 35	Implement Queue using Stacks
+- 36	Add Two Numbers
+- 37	Merge Sorted Array
+- 38	Merge Two Sorted Lists
+- 39	Max Consecutive Ones III
+- 40	Longest Palindromic Substring
+- 41	Jewels and Stones
+- 42	Lowest Common Ancestor of a Binary Tree
+- 43	Intersection of Two Arrays II
+- 44	Missing Number
+- 45	Evaluate Reverse Polish Notation
+- 46	Median of Two Sorted Arrays
+- 47	Simplify Path
+- 48	Is Subsequence
+- 49	Squares of a Sorted Array
+- 50	Remove Nth Node From End of List
+- 51	Perfect Squares
+- 52	Max Stack
+- 53	Lowest Common Ancestor of a Binary Tree III
+- 54	Longest Substring with At Most Two Distinct Characters
+- 55	Maximal Rectangle
+- 56	Search in Rotated Sorted Array
+- 57	Two Sum II - Input Array Is Sorted
+- 58	Remove Duplicates from Sorted Array
+- 59	Find Minimum in Rotated Sorted Array
+- 60	Range Sum of BST
+- 61	Partition Labels
+- 62	Product of Array Except Self
+- 63	Binary Tree Maximum Path Sum
+- 64	Continuous Subarray Sum
+- 65	Reverse Words in a String III
+- 66	Add Strings
+- 67	Palindrome Linked List
+- 68	First Unique Character in a String
