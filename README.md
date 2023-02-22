@@ -89,37 +89,37 @@
 - 34 [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections)
 
 ## Algo 5 pt.2
-- 35	Implement Queue using Stacks[https://leetcode.com/problems/implement-queue-using-stacks]
-- 36	Add Two Numbers[https://leetcode.com/problems/add-two-numbers]
-- 37	Merge Sorted Array[https://leetcode.com/problems/merge-sorted-array]
-- 38	Merge Two Sorted Lists[https://leetcode.com/problems/merge-two-sorted-lists]
-- 39	Max Consecutive Ones III[https://leetcode.com/problems/max-consecutive-ones-iii] - вы можете поменять не более k нулей
-- 40	Longest Palindromic Substring[https://leetcode.com/problems/longest-palindromic-substring]
-- 41	Jewels and Stones[https://leetcode.com/problems/jewels-and-stones]
-- 42	Lowest Common Ancestor of a Binary Tree[https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree] - Наименьший общий предок
-- 43	Intersection of Two Arrays II[https://leetcode.com/problems/intersection-of-two-arrays-ii]
-- 44	Missing Number[https://leetcode.com/problems/missing-number]
-- 45	Evaluate Reverse Polish Notation[https://leetcode.com/problems/evaluate-reverse-polish-notation]
-- 46	Median of Two Sorted Arrays[https://leetcode.com/problems/median-of-two-sorted-arrays]
-- 47	Simplify Path[https://leetcode.com/problems/simplify-path]
-- 48	Is Subsequence[https://leetcode.com/problems/is-subsequence]
-- 49	Squares of a Sorted Array[https://leetcode.com/problems/squares-of-a-sorted-array]
-- 50	Remove Nth Node From End of List[https://leetcode.com/problems/remove-nth-node-from-end-of-list]
-- 51	Perfect Squares[https://leetcode.com/problems/perfect-squares]
-- 52	Max Stack[https://leetcode.com/problems/max-stack]
-- 53	Lowest Common Ancestor of a Binary Tree III[https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii]
-- 54	Longest Substring with At Most Two Distinct Characters[https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters]
-- 55	Maximal Rectangle[https://leetcode.com/problems/maximal-rectangle]
-- 56	Search in Rotated Sorted Array[https://leetcode.com/problems/search-in-rotated-sorted-array]
-- 57	Two Sum II - Input Array Is Sorted[https://leetcode.com/problems/two-sum-ii-input-array-is-sorted]
-- 58	Remove Duplicates from Sorted Array[https://leetcode.com/problems/remove-duplicates-from-sorted-array]
-- 59	Find Minimum in Rotated Sorted Array[https://leetcode.com/problems/find-minimum-in-rotated-sorted-array]
-- 60	Range Sum of BST[https://leetcode.com/problems/range-sum-of-bst]
-- 61	Partition Labels[https://leetcode.com/problems/partition-labels]
-- 62	Product of Array Except Self[https://leetcode.com/problems/product-of-array-except-self]
-- 63	Binary Tree Maximum Path Sum[https://leetcode.com/problems/binary-tree-maximum-path-sum]
-- 64	Continuous Subarray Sum[https://leetcode.com/problems/continuous-subarray-sum]
-- 65	Reverse Words in a String III[https://leetcode.com/problems/reverse-words-in-a-string-iii]
-- 66	Add Strings[https://leetcode.com/problems/add-strings]
-- 67	Palindrome Linked List[https://leetcode.com/problems/palindrome-linked-list]
-- 68	First Unique Character in a String[https://leetcode.com/problems/first-unique-character-in-a-string]
+- 35 [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
+- 36 [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
+- 37 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+- 38 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
+- 39 [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) - вы можете поменять не более k нулей
+- 40 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
+- 41 [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)
+- 42 [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) - Наименьший общий предок
+- 43 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)
+- 44 [Missing Number](https://leetcode.com/problems/missing-number)
+- 45 [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
+- 46 [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
+- 47 [Simplify Path](https://leetcode.com/problems/simplify-path)
+- 48 [Is Subsequence](https://leetcode.com/problems/is-subsequence)
+- 49 [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
+- 50 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
+- 51 [Perfect Squares](https://leetcode.com/problems/perfect-squares)
+- 52 [Max Stack](https://leetcode.com/problems/max-stack)
+- 53 [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)
+- 54 [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)
+- 55 [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle)
+- 56 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
+- 57 [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
+- 58 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
+- 59 [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
+- 60 [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)
+- 61 [Partition Labels](https://leetcode.com/problems/partition-labels)
+- 62 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
+- 63 [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
+- 64 [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum)
+- 65 [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)
+- 66 [Add Strings](https://leetcode.com/problems/add-strings)
+- 67 [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
+- 68 [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)
