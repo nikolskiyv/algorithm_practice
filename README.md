@@ -71,7 +71,7 @@
 - 16	Merge k Sorted Lists[https://leetcode.com/problems/merge-k-sorted-lists]
 - 17	Number of Recent Calls[https://leetcode.com/problems/number-of-recent-calls]
 - 18	Valid Parentheses[https://leetcode.com/problems/valid-parentheses]
-- 19	Max Consecutive Ones II[https://leetcode.com/problems/max-consecutive-ones-ii]
+- 19	Max Consecutive Ones II[https://leetcode.com/problems/max-consecutive-ones-ii] - можете обернуть не более одного 0
 - 20	Maximize Distance to Closest Person[https://leetcode.com/problems/maximize-distance-to-closest-person]
 - 21	Design Hit Counter[https://leetcode.com/problems/design-hit-counter]
 - 22	Merge Intervals[https://leetcode.com/problems/merge-intervals]
@@ -85,7 +85,7 @@
 - 30	Validate Binary Search Tree[https://leetcode.com/problems/validate-binary-search-tree]
 - 31	Number of Islands[https://leetcode.com/problems/number-of-islands]
 - 32	Flatten Nested List Iterator[https://leetcode.com/problems/flatten-nested-list-iterator]
-- 33	Consecutive Characters[https://leetcode.com/problems/consecutive-characters]
+- 33	Consecutive Characters[https://leetcode.com/problems/consecutive-characters] - Мощность строки — это максимальная длина непустой подстроки, содержащей только один уникальный символ
 - 34	Interval List Intersections[https://leetcode.com/problems/interval-list-intersections]
 
 ## Algo 5 pt.2
@@ -93,10 +93,10 @@
 - 36	Add Two Numbers[https://leetcode.com/problems/add-two-numbers]
 - 37	Merge Sorted Array[https://leetcode.com/problems/merge-sorted-array]
 - 38	Merge Two Sorted Lists[https://leetcode.com/problems/merge-two-sorted-lists]
-- 39	Max Consecutive Ones III[https://leetcode.com/problems/max-consecutive-ones-iii]
+- 39	Max Consecutive Ones III[https://leetcode.com/problems/max-consecutive-ones-iii] - вы можете поменять не более k нулей
 - 40	Longest Palindromic Substring[https://leetcode.com/problems/longest-palindromic-substring]
 - 41	Jewels and Stones[https://leetcode.com/problems/jewels-and-stones]
-- 42	Lowest Common Ancestor of a Binary Tree[https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree]
+- 42	Lowest Common Ancestor of a Binary Tree[https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree] - Наименьший общий предок
 - 43	Intersection of Two Arrays II[https://leetcode.com/problems/intersection-of-two-arrays-ii]
 - 44	Missing Number[https://leetcode.com/problems/missing-number]
 - 45	Evaluate Reverse Polish Notation[https://leetcode.com/problems/evaluate-reverse-polish-notation]
