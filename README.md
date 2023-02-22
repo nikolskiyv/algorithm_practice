@@ -53,40 +53,40 @@
 
 
 ## Algo 5 pt.1
-- 1	Line Reflection[https://leetcode.com/problems/line-reflection]
-- 2	Longest Subarray of 1's After Deleting One Element[https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element]
-- 3	Summary Ranges[https://leetcode.com/problems/summary-ranges]
-- 4	String Compression[https://leetcode.com/problems/string-compression]
-- 5	Zigzag Iterator[https://leetcode.com/problems/zigzag-iterator]
-- 6	Valid Palindrome[https://leetcode.com/problems/valid-palindrome]
-- 7	One Edit Distance[https://leetcode.com/problems/one-edit-distance]
-- 8	Subarray Sum Equals K[https://leetcode.com/problems/subarray-sum-equals-k]
-- 9	Move Zeroes[https://leetcode.com/problems/move-zeroes]
-- 10	Group Anagrams[https://leetcode.com/problems/group-anagrams]
-- 11	Insert Delete GetRandom O(1)[https://leetcode.com/problems/insert-delete-getrandom-o1]
-- 12	LRU Cache[https://leetcode.com/problems/lru-cache]
-- 13	Generate Parentheses[https://leetcode.com/problems/generate-parentheses]
-- 14	Reverse Linked List[https://leetcode.com/problems/reverse-linked-list]
-- 15	Permutation in String[https://leetcode.com/problems/permutation-in-string]
-- 16	Merge k Sorted Lists[https://leetcode.com/problems/merge-k-sorted-lists]
-- 17	Number of Recent Calls[https://leetcode.com/problems/number-of-recent-calls]
-- 18	Valid Parentheses[https://leetcode.com/problems/valid-parentheses]
-- 19	Max Consecutive Ones II[https://leetcode.com/problems/max-consecutive-ones-ii] - можете обернуть не более одного 0
-- 20	Maximize Distance to Closest Person[https://leetcode.com/problems/maximize-distance-to-closest-person]
-- 21	Design Hit Counter[https://leetcode.com/problems/design-hit-counter]
-- 22	Merge Intervals[https://leetcode.com/problems/merge-intervals]
-- 23	Trapping Rain Water[https://leetcode.com/problems/trapping-rain-water]
-- 24	Two Sum[https://leetcode.com/problems/two-sum]
-- 25	Meeting Rooms II[https://leetcode.com/problems/meeting-rooms-ii]
-- 26	Find All Anagrams in a String[https://leetcode.com/problems/find-all-anagrams-in-a-string]
-- 27	Implement Rand10() Using Rand7()[https://leetcode.com/problems/implement-rand10-using-rand7]
-- 28	Symmetric Tree[https://leetcode.com/problems/symmetric-tree]
-- 29	Longest Substring Without Repeating Characters[https://leetcode.com/problems/longest-substring-without-repeating-characters]
-- 30	Validate Binary Search Tree[https://leetcode.com/problems/validate-binary-search-tree]
-- 31	Number of Islands[https://leetcode.com/problems/number-of-islands]
-- 32	Flatten Nested List Iterator[https://leetcode.com/problems/flatten-nested-list-iterator]
-- 33	Consecutive Characters[https://leetcode.com/problems/consecutive-characters] - Мощность строки — это максимальная длина непустой подстроки, содержащей только один уникальный символ
-- 34	Interval List Intersections[https://leetcode.com/problems/interval-list-intersections]
+- 1	[Line Reflection](https://leetcode.com/problems/line-reflection)
+- 2	[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)
+- 3	[Summary Ranges](https://leetcode.com/problems/summary-ranges)
+- 4	[String Compression](https://leetcode.com/problems/string-compression)
+- 5	[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator)
+- 6	[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+- 7	[One Edit Distance](https://leetcode.com/problems/one-edit-distance)
+- 8	[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)
+- 9	[Move Zeroes](https://leetcode.com/problems/move-zeroes)
+- 10 [Group Anagrams](https://leetcode.com/problems/group-anagrams)
+- 11 [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)
+- 12 [LRU Cache](https://leetcode.com/problems/lru-cache)
+- 13 [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
+- 14 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+- 15 [Permutation in String](https://leetcode.com/problems/permutation-in-string)
+- 16 [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
+- 17 [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)
+- 18 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
+- 19 [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii) - можете обернуть не более одного 0
+- 20 [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)
+- 21 [Design Hit Counter](https://leetcode.com/problems/design-hit-counter)
+- 22 [Merge Intervals](https://leetcode.com/problems/merge-intervals)
+- 23 [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
+- 24 [Two Sum](https://leetcode.com/problems/two-sum)
+- 25 [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)
+- 26 [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
+- 27 [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7)
+- 28 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
+- 29 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+- 30 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
+- 31 [Number of Islands](https://leetcode.com/problems/number-of-islands)
+- 32 [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)
+- 33 [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) - Мощность строки — это максимальная длина непустой подстроки, содержащей только один уникальный символ
+- 34 [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections)
 
 ## Algo 5 pt.2
 - 35	Implement Queue using Stacks[https://leetcode.com/problems/implement-queue-using-stacks]
