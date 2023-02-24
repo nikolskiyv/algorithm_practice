@@ -12,6 +12,7 @@
 ## Списки
 - 14 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 - 16 [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
+- 36 [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 - 38 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 - 50 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
 - 67 [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
@@ -68,7 +69,6 @@
 - 24 [Two Sum](https://leetcode.com/problems/two-sum)
 - 29 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 - 33 [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) - Мощность строки — это максимальная длина непустой подстроки, содержащей только один уникальный символ
-- 36 [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 - 37 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 - 40 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 - 43 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)
