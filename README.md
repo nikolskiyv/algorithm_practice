@@ -6,8 +6,7 @@
 - 2	[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)
 - 19 [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii) - можете обернуть не более одного 0
 - 39 [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) - вы можете поменять не более k нулей
-- 3.49 Найти наибольшую подпоследовательность из "1", если можно добавить k единиц
-- 3.50 Найти самую длинную подпоследовательность из "1", если можно удалить один элемент
+
 
 ## Списки
 - 14 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
@@ -148,7 +147,8 @@
 - 45 Максимальное расстояние до ближайшего человека
 - 46 Количество запросов за определенное время
 - 48 Собрать массив из квадратов чисел
-
+- 49 Найти наибольшую подпоследовательность из "1", если можно добавить k единиц
+- 50 Найти самую длинную подпоследовательность из "1", если можно удалить один элемент
 
 
 
