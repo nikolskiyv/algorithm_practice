@@ -28,6 +28,7 @@
 - 53 [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)
 - 60 [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)
 - 63 [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
+- 3.41 Сериализация/десериализация BST
 
 ## Отрезки
 - 22 [Merge Intervals](https://leetcode.com/problems/merge-intervals)
@@ -47,6 +48,7 @@
 - 1	[Line Reflection](https://leetcode.com/problems/line-reflection) - существует ли такая прямая, что после отражения всех точек через данную прямую множество исходных точек совпадает с множеством отраженных
 - 55 [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle)
 - 3.15 Развернуть матрицу на 90 градусов
+- 3.18 [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) - Генерация спиральной матрицы
 
 ## Реализовать класс
 - 5	[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator)
@@ -76,7 +78,7 @@
 - 46 [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
 - 48 [Is Subsequence](https://leetcode.com/problems/is-subsequence)
 - 49 [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
-- 51 [Perfect Squares](https://leetcode.com/problems/perfect-squares)
+- 51 [Perfect Squares](https://leetcode.com/problems/perfect-squares) - Для заданного целого числа n верните наименьшее количество совершенных квадратных чисел, сумма которых равна n.
 - 54 [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)
 - 56 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 - 57 [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
@@ -88,6 +90,10 @@
 - 65 [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)
 - 66 [Add Strings](https://leetcode.com/problems/add-strings)
 - 68 [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)
+- 3.11 [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) - Найти первое вхождение одной строки в другую
+- 3.13 [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - Найти первое и последнее вхождение в отсортированном списке
+- 3.44 [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) - Найти K ближайших элементов
+- 3.47 [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) - Найти количество не пустых подмассивов, сумма которых делится на k
 
 ## Веб
 - 17 [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)
@@ -98,32 +104,11 @@
 - 23 [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
 - 31 [Number of Islands](https://leetcode.com/problems/number-of-islands)
 - 41 [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)
+- 3.36 [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary) - Проложить путь для аэропортов
 
 ## Математические
 - 27 [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7)
 
-
-## Algo 3
-- 7 Сбалансирована ли скобочная последовательность
-- 9 Генерация скобочных последовательностей
-- 11 Найти первое вхождение одной строки в другую
-- 13 Найти первое и последнее вхождение в отсортированном списке
-- 17 Объединить интервалы
-- 18 Генерация спиральной матрицы
-- 21 Объединение отсортированных массивов
-- 32 Вернуть массив, где res[i] - произведение arr[0]...arr[i-1]arr[i+1]...arr[-1]
-- 34 Для заданного целого числа n верните наименьшее количество совершенных квадратных чисел, сумма которых равна n.
-- 36 Проложить путь для аэропортов
-- 37 Найти пересечение двух массивов
-- 40 Запаковать массив по группам букв
-- 41 Сериализация/десериализация BST
-- 42 Подмассив с суммой K
-- 43 Содержит ли одна строка комбинацию другой
-- 44 Найти K ближайших элементов
-- 45 Максимальное расстояние до ближайшего человека
-- 46 Количество запросов за определенное время
-- 47 Найти количество не пустых подмассивов, сумма которых делится на k
-- 48 Собрать массив из квадратов чисел
 
 
 ## Повтор
@@ -132,11 +117,15 @@
 - 4 Медиана двух отсортированных массивов
 - 5 Самый длинный подотрезок палиндром
 - 6 Удалить n-й узел в списке
+- 7 Сбалансирована ли скобочная последовательность
+- 9 Генерация скобочных последовательностей
 - 12 Поиск в циклически сдвинутом массиве
 - 14 Найти кол-во воды в ямах
 - 16 Сортировка анаграмм
+- 17 Объединить интервалы
 - 19 Конвертация пути
 - 20 Наибольший прямоугольник из "1"
+- 21 Объединение отсортированных массивов
 - 22 Валидное ли бинарное дерево
 - 23 Симметричное ли дерево
 - 24 Проверка строки на палиндром
@@ -146,10 +135,20 @@
 - 28 Перевернуть список
 - 29 Запаковка чисел в массиве
 - 30 Реализация очереди через стек
+- 32 Вернуть массив, где res[i] - произведение arr[0]...arr[i-1]arr[i+1]...arr[-1]
+- 34 Для заданного целого числа n верните наименьшее количество совершенных квадратных чисел, сумма которых равна n.
 - 33 Найти пропущенное число в массиве [0..n]
 - 35 Переместить все нули массива в конец (без его копии)
+- 37 Найти пересечение двух массивов
 - 38 Реализовать RandomizeSet
 - 39 Является ли одна строка подстрокой другой
+- 40 Запаковать массив по группам букв
+- 42 Подмассив с суммой K
+- 43 Содержит ли одна строка комбинацию другой
+- 45 Максимальное расстояние до ближайшего человека
+- 46 Количество запросов за определенное время
+- 48 Собрать массив из квадратов чисел
+
 
 
 
