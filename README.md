@@ -4,25 +4,21 @@
 
 ## Последовательность из 0 и 1
 - 2	[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)
-- 19 [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii) - можете обернуть не более одного 0
-- 39 [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) - вы можете поменять не более k нулей
+- 19 [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii) - можете превратить в 1 не более одного 0
+- 39 [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) - вы можете поменять не более k нулей на 1
 
 
 ## Списки
-- 14 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
-- 16 [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
-- 36 [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
-- 38 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
-- 50 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
-- 67 [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
-- 3.2 Сложить два списка как число
-- 3.8 Объединить два отсортированных списка
-- 3.10 Объединить k отсортированных списков
-- 3.31 Является ли список палиндромом
+- 14 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) [1, 2, 3, 4, 5] -> [5, 4, 3, 2, 1]
+- 16 [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) [[1, 4, 5], [1, 3, 4], [2, 6]] -> [1, 1, 2, 3, 4, 4, 5, 6]
+- 36 [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) [2, 4, 3] + [5, 6, 4] -> [7, 0, 8]
+- 38 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) [1, 2, 4], [1, 3, 4] -> [1, 1, 2, 3, 4, 4]
+- 50 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) [1, 2, 3, 4, 5], 2 -> [1, 2, 3, 5]
+- 67 [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) [1, 2, 2, 1] -> True
 
 ## Деревья
-- 28 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
-- 30 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
+- 28 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) Симметричное ли дерево?
+- 30 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) Является ли дерево БДП?
 - 42 [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) - Наименьший общий предок
 - 53 [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)
 - 60 [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)
@@ -60,35 +56,35 @@
 
 
 ## Строки/массивы
-- 3	[Summary Ranges](https://leetcode.com/problems/summary-ranges)
-- 4	[String Compression](https://leetcode.com/problems/string-compression)
-- 7	[One Edit Distance](https://leetcode.com/problems/one-edit-distance)
-- 8	[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)
-- 9	[Move Zeroes](https://leetcode.com/problems/move-zeroes)
-- 10 [Group Anagrams](https://leetcode.com/problems/group-anagrams)
-- 15 [Permutation in String](https://leetcode.com/problems/permutation-in-string)
-- 24 [Two Sum](https://leetcode.com/problems/two-sum)
-- 29 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
-- 33 [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) - Мощность строки — это максимальная длина непустой подстроки, содержащей только один уникальный символ
-- 37 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
-- 40 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
-- 43 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)
-- 44 [Missing Number](https://leetcode.com/problems/missing-number)
-- 46 [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
-- 48 [Is Subsequence](https://leetcode.com/problems/is-subsequence)
-- 49 [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
-- 51 [Perfect Squares](https://leetcode.com/problems/perfect-squares) - Для заданного целого числа n верните наименьшее количество совершенных квадратных чисел, сумма которых равна n.
-- 54 [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)
+- 3	[Summary Ranges](https://leetcode.com/problems/summary-ranges) - [0, 1, 2, 4, 5, 7] -> ["0->2", "4->5", "7"]
+- 4	[String Compression](https://leetcode.com/problems/string-compression) - ["a","a","b","b","c","c","c"] -> ["a","2","b","2","c","3"]
+- 7	[One Edit Distance](https://leetcode.com/problems/one-edit-distance) - Строку можно получить из другой одним редактированием
+- 8	[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) - Вернуть общее количество подмассивов, сумма которых равна k
+- 9	[Move Zeroes](https://leetcode.com/problems/move-zeroes) - [0,1,0,3,12] -> [1,3,12,0,0]
+- 10 [Group Anagrams](https://leetcode.com/problems/group-anagrams) - ["eat","tea","tan","ate","nat","bat"] -> [["bat"],["nat","tan"],["ate","eat","tea"]]
+- 15 [Permutation in String](https://leetcode.com/problems/permutation-in-string) - Вернуть true, если одна из перестановок s1 является подстрокой s2.
+- 24 [Two Sum](https://leetcode.com/problems/two-sum) - Найти два числа, которые дают таргет
+- 29 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - Самая длинная подстрока без повторяющихся символов
+- 33 [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) - Найти максимальную длину непустой подстроки, содержащей только один уникальный символ
+- 37 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) - Слить два неубывающих массива в один неубывающий
+- 40 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) - Самая длинная строка палиндром
+- 43 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) - Пересечение двух массивов
+- 44 [Missing Number](https://leetcode.com/problems/missing-number) - Вернуть пропущенное число из диапазона [0..n]
+- 46 [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) - Найти средний элемент из двух слитых отсортированных отрезков
+- 48 [Is Subsequence](https://leetcode.com/problems/is-subsequence) - Является ли одна строка подпоследовательностью другой
+- 49 [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) - [-4,-1,0,3,10] -> [0,1,9,16,100]
+- 51 [Perfect Squares](https://leetcode.com/problems/perfect-squares) - 12 -> 3 (4 + 4 + 4 = 12)
+- 54 [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters) - Самая длинная подстрока, элементы встречаются максимум два раза
 - 56 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 - 57 [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
-- 58 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
-- 59 [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
-- 61 [Partition Labels](https://leetcode.com/problems/partition-labels)
-- 62 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
-- 64 [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum)
-- 65 [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)
-- 66 [Add Strings](https://leetcode.com/problems/add-strings)
-- 68 [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)
+- 58 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - [0,0,1,1,1,2,2,3,3,4] -> [0,1,2,3,4,,,,,]
+- 59 [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) 
+- 61 [Partition Labels](https://leetcode.com/problems/partition-labels) - Разделить строку на как можно больше частей, чтобы каждая буква встречалась не более чем в одной части
+- 62 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) - a -> res (res[i] = a[0]*...*a[i-1]*a[i+1]*...)
+- 64 [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) 
+- 65 [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) - Перевернуть все слова в строке
+- 66 [Add Strings](https://leetcode.com/problems/add-strings) - Сложить строки как числа
+- 68 [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) - Найти индекс первого уникального символа
 - 3.11 [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) - Найти первое вхождение одной строки в другую
 - 3.13 [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - Найти первое и последнее вхождение в отсортированном списке
 - 3.44 [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) - Найти K ближайших элементов
