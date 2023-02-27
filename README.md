@@ -126,3 +126,4 @@
 - 21 Здания, которые могут увидеть океан
 
 ## Training list (Yandex_training.ipynb)
+![Training list](https://github.com/nikolskiyv/algorithm_practice/blob/master/training_list.png)
