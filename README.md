@@ -1,13 +1,11 @@
 # Yandex Inerview Kit
-#### Algo 5 pt.1 [1-34]
-#### Algo 5 pt.2 [35-68]
+#### pt.1 [1-34]
+#### pt.2 [35-68]
 
 ## Последовательность из 0 и 1
 - 2	[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)
 - 19 [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii) - можете превратить в 1 не более одного 0
 - 39 [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) - вы можете поменять не более k нулей на 1
-- 7.1 Максимальная длина из "1" после удаления одного "0"
-
 
 ## Списки
 - 14 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) [1, 2, 3, 4, 5] -> [5, 4, 3, 2, 1]
@@ -105,24 +103,25 @@
 ## Математические
 - 27 [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7)
 
-## algo_7
-- 7.2 Найти подотрезок с наименьшей суммой по модулю
-- 7.3 Найти подотрезок с наибольшей суммой
-- 7.4 Определить номер первой колонки, в которой есть хоть одна единица
-- 7.5 Можно ли получить одну строку из другой за <= 1 одно исправление
-- 7.6 Найти подстроку, которая совпадает с точностью до перестановки
-- 7.7 Перевернуть int
-- 7.8 Найти наибольшую сумму в дереве
-- 7.9 Найти максимальное число постояльцев, которые одновременно проживали в гостинице
-- 7.11 Minimum Window Substring
-- 7.12 Binary Tree Zigzag Level Order Traversal
-- 7.13 Logger Rate Limiter
-- 7.14 Count Number of Occurrences in a Sorted Array
-- 7.15 Minimize the Maximum Difference between Heights
-- 7.16 Find smallest missing number in sorted array
-- 7.17 Minimum Operations to Make Array Equal
-- 7.18 Remove All Occurrences of a Substring
-- 7.19 Find Smiles Position
-- 7.20 Здания, которые могут увидеть закат
-- 7.21 Здания, которые могут увидеть океан
+## pt.4
+- 1 Максимальная длина из "1" после удаления одного "0"
+- 2 Найти подотрезок с наименьшей суммой по модулю
+- 3 Найти подотрезок с наибольшей суммой
+- 4 Определить номер первой колонки, в которой есть хоть одна единица
+- 5 Можно ли получить одну строку из другой за <= 1 одно исправление
+- 6 Найти подстроку, которая совпадает с точностью до перестановки
+- 7 Перевернуть int
+- 8 Найти наибольшую сумму в дереве
+- 9 Найти максимальное число постояльцев, которые одновременно проживали в гостинице
+- 11 Minimum Window Substring
+- 12 Binary Tree Zigzag Level Order Traversal
+- 13 Logger Rate Limiter
+- 14 Count Number of Occurrences in a Sorted Array
+- 15 Minimize the Maximum Difference between Heights
+- 16 Find smallest missing number in sorted array
+- 17 Minimum Operations to Make Array Equal
+- 18 Remove All Occurrences of a Substring
+- 19 Find Smiles Position
+- 20 Здания, которые могут увидеть закат
+- 21 Здания, которые могут увидеть океан
 
