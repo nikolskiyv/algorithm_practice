@@ -17,10 +17,13 @@
 12. [Математические](#12)
 
 ---
+> pt.1 [Задачи с префиксом 3. ]
 
-> pt.1 [1-34]
+> pt.2 [1-34]
 
-> pt.2 [35-68]
+> pt.3 [35-68]
+
+> pt.4 [69-88]
 
 ---
 
@@ -29,6 +32,7 @@
 - 2	[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)
 - 19 [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii) - можете превратить в 1 не более одного 0
 - 39 [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) - вы можете поменять не более k нулей на 1
+- 69 Максимальная длина из "1" после удаления одного "0"
 
 <a name="2"></a> 
 ## [ Списки ]
@@ -48,6 +52,8 @@
 - 60 [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)
 - 63 [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
 - 3.41 Сериализация/десериализация BST
+- 76 Найти наибольшую сумму в дереве
+- 79 Binary Tree Zigzag Level Order Traversal
 
 <a name="4"></a> 
 ## [ Отрезки ]
@@ -72,6 +78,7 @@
 - 55 [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle)
 - 3.15 Развернуть матрицу на 90 градусов
 - 3.18 [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) - Генерация спиральной матрицы
+- 72 Определить номер первой колонки, в которой есть хоть одна единица
 
 <a name="8"></a> 
 ## [ Реализовать класс ]
@@ -89,6 +96,7 @@
 ### Проверить
 - 15 [Permutation in String](https://leetcode.com/problems/permutation-in-string) - Вернуть true, если одна из перестановок s1 является подстрокой s2.
 - 48 [Is Subsequence](https://leetcode.com/problems/is-subsequence) - Является ли одна строка подпоследовательностью другой
+- 73 Можно ли получить одну строку из другой за <= 1 одно исправление
 
 <a name="9_2"></a> 
 ### Найти
@@ -114,6 +122,13 @@
 - 3.13 [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - Найти первое и последнее вхождение в отсортированном списке
 - 3.44 [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) - Найти K ближайших элементов
 - 3.47 [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) - Найти количество не пустых подмассивов, сумма которых делится на k
+- 70 Найти подотрезок с наименьшей суммой по модулю
+- 71 Найти подотрезок с наибольшей суммой
+- 74 Найти подстроку, которая совпадает с точностью до перестановки
+- 78 Minimum Window Substring
+- 81 Count Number of Occurrences in a Sorted Array
+- 84 Minimum Operations to Make Array Equal
+- 86 Find Smiles Position
 
 <a name="9_3"></a> 
 ### Изменить
@@ -126,11 +141,13 @@
 - 58 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - [0,0,1,1,1,2,2,3,3,4] -> [0,1,2,3,4,,,,,]
 - 61 [Partition Labels](https://leetcode.com/problems/partition-labels) - Разделить строку на как можно больше частей, чтобы каждая буква встречалась не более чем в одной части
 - 65 [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) - Перевернуть все слова в строке
+- 85 Remove All Occurrences of a Substring
 
 <a name="10"></a> 
 ## [ Веб ]
 - 17 [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)
 - 47 [Simplify Path](https://leetcode.com/problems/simplify-path)
+- 80 Logger Rate Limiter
 
 <a name="11"></a> 
 ## [ Жизненные ]
@@ -139,32 +156,16 @@
 - 31 [Number of Islands](https://leetcode.com/problems/number-of-islands)
 - 41 [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)
 - 3.36 [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary) - Проложить путь для аэропортов
+- 77 Найти максимальное число постояльцев, которые одновременно проживали в гостинице
+- 82 Minimize the Maximum Difference between Heights
+- 87 Здания, которые могут увидеть закат
+- 88 Здания, которые могут увидеть океан
 
 <a name="12"></a> 
 ## [ Математические ]
 - 27 [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7)
-
-## [ pt.4 ]
-- 1 Максимальная длина из "1" после удаления одного "0"
-- 2 Найти подотрезок с наименьшей суммой по модулю
-- 3 Найти подотрезок с наибольшей суммой
-- 4 Определить номер первой колонки, в которой есть хоть одна единица
-- 5 Можно ли получить одну строку из другой за <= 1 одно исправление
-- 6 Найти подстроку, которая совпадает с точностью до перестановки
-- 7 Перевернуть int
-- 8 Найти наибольшую сумму в дереве
-- 9 Найти максимальное число постояльцев, которые одновременно проживали в гостинице
-- 11 Minimum Window Substring
-- 12 Binary Tree Zigzag Level Order Traversal
-- 13 Logger Rate Limiter
-- 14 Count Number of Occurrences in a Sorted Array
-- 15 Minimize the Maximum Difference between Heights
-- 16 Find smallest missing number in sorted array
-- 17 Minimum Operations to Make Array Equal
-- 18 Remove All Occurrences of a Substring
-- 19 Find Smiles Position
-- 20 Здания, которые могут увидеть закат
-- 21 Здания, которые могут увидеть океан
+- 75 Перевернуть int
+- 83 Find smallest missing number in sorted array
 
 ## Training list (Yandex_training.ipynb)
 ![Training list](https://github.com/nikolskiyv/algorithm_practice/blob/master/training_list.png)
