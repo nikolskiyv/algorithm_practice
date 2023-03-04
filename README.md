@@ -103,11 +103,11 @@
 - 43 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) - Пересечение двух массивов
 - 51 [Perfect Squares](https://leetcode.com/problems/perfect-squares) - 12 -> 3 (4 + 4 + 4 = 12)
 - 54 [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters) - Самая длинная подстрока, элементы встречаются максимум два раза
-- 56 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
+- 56 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) - [4,6,8,9,1,3] (Найти за nlogn)
 - 57 [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
 - 59 [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) 
 - 62 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) - a -> res (res[i] = a[0]*...*a[i-1]*a[i+1]*...)
-- 64 [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) 
+- 64 [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) - непрерывная подпоследовательность, которая дает таргет в сумме
 - 66 [Add Strings](https://leetcode.com/problems/add-strings) - Сложить строки как числа
 - 68 [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) - Найти индекс первого уникального символа
 - 3.11 [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) - Найти первое вхождение одной строки в другую
