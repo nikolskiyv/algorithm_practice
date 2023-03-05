@@ -60,17 +60,17 @@
 - 30 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) Является ли дерево БДП?
 - 42 [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) - Наименьший общий предок
 - 53 [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)
-- 60 [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)
-- 63 [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
+- 60 [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) - вернуть сумму значений всех узлов со значением в диапазоне [low, high]
+- 63 [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) - вернуть максимальную сумму пути любого непустого пути
 - 76 Найти наибольшую сумму в дереве
-- 79 Binary Tree Zigzag Level Order Traversal
-- 89 Сериализация/десериализация BST
+- 79 Binary Tree Zigzag Level Order Traversal - вывести древо зигзагом
+- 89 Сериализация/десериализация BST 
 
 <a name="4"></a> 
 ## [ Отрезки ]
-- 22 [Merge Intervals](https://leetcode.com/problems/merge-intervals)
-- 25 [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)
-- 34 [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections)
+- 22 [Merge Intervals](https://leetcode.com/problems/merge-intervals) - найти интервалы, которыми можно перекрыть заданные
+- 25 [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) - найти минимальное количество конференц-залов
+- 34 [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections) - найти пересечение этих двух списков интервалов
 
 <a name="5"></a> 
 ## [ Скобки/полиз ]
@@ -133,7 +133,7 @@
 - 74 Найти подстроку, которая совпадает с точностью до перестановки
 - 78 Minimum Window Substring
 - 81 Count Number of Occurrences in a Sorted Array
-- 84 Minimum Operations to Make Array Equal
+- 84 Minimum Operations to Make Array Equal - найти минимальное количество операций, чтобы сделать все элементы равными
 - 86 Find Smiles Position
 - 92 [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) - Найти первое вхождение одной строки в другую
 - 93 [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - Найти первое и последнее вхождение в отсортированном списке
