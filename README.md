@@ -7,6 +7,7 @@
 - https://pythonist.ru/obhod-dvoichnogo-dereva-na-python/ - обход дерева
 - https://eddmann.com/posts/depth-first-search-and-breadth-first-search-in-python/ - BFS/DFS
 - https://pythonist.ru/algoritmy-sortirovki-s-python/ - алгоритмы сортировки
+- https://habr.com/ru/post/550088/ - Хабр. Собеседование в Яндекс. Театр абсурда.
 
 ---
 
