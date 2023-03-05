@@ -84,7 +84,6 @@
 - 5	[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator)
 - 11 [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)
 - 12 [LRU Cache](https://leetcode.com/problems/lru-cache)
-- 21 [Design Hit Counter](https://leetcode.com/problems/design-hit-counter)
 - 32 [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)
 - 35 [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
 - 52 [Max Stack](https://leetcode.com/problems/max-stack)
@@ -145,6 +144,7 @@
 <a name="10"></a> 
 ## [ Веб ]
 - 17 [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)
+- 21 [Design Hit Counter](https://leetcode.com/problems/design-hit-counter)
 - 47 [Simplify Path](https://leetcode.com/problems/simplify-path)
 - 80 Logger Rate Limiter
 
