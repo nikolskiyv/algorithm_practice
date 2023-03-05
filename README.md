@@ -17,13 +17,12 @@
 12. [Математические](#12)
 
 ---
-> pt.1 [Задачи с префиксом 3. ]
 
-> pt.2 [1-34]
+> pt.1 [1-34]
 
-> pt.3 [35-68]
+> pt.2 [35-68]
 
-> pt.4 [69-88]
+> pt.3 [69-96]
 
 ---
 
@@ -51,9 +50,9 @@
 - 53 [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)
 - 60 [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)
 - 63 [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
-- 3.41 Сериализация/десериализация BST
 - 76 Найти наибольшую сумму в дереве
 - 79 Binary Tree Zigzag Level Order Traversal
+- 89 Сериализация/десериализация BST
 
 <a name="4"></a> 
 ## [ Отрезки ]
@@ -76,9 +75,9 @@
 ## [ Геометрические ] 
 - 1	[Line Reflection](https://leetcode.com/problems/line-reflection) - существует ли такая прямая, что после отражения всех точек через данную прямую множество исходных точек совпадает с множеством отраженных
 - 55 [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle)
-- 3.15 Развернуть матрицу на 90 градусов
-- 3.18 [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) - Генерация спиральной матрицы
 - 72 Определить номер первой колонки, в которой есть хоть одна единица
+- 90 Развернуть матрицу на 90 градусов
+- 91 [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) - Генерация спиральной матрицы
 
 <a name="8"></a> 
 ## [ Реализовать класс ]
@@ -118,10 +117,6 @@
 - 64 [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) - непрерывная подпоследовательность, которая дает таргет в сумме
 - 66 [Add Strings](https://leetcode.com/problems/add-strings) - Сложить строки как числа
 - 68 [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) - Найти индекс первого уникального символа
-- 3.11 [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) - Найти первое вхождение одной строки в другую
-- 3.13 [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - Найти первое и последнее вхождение в отсортированном списке
-- 3.44 [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) - Найти K ближайших элементов
-- 3.47 [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) - Найти количество не пустых подмассивов, сумма которых делится на k
 - 70 Найти подотрезок с наименьшей суммой по модулю
 - 71 Найти подотрезок с наибольшей суммой
 - 74 Найти подстроку, которая совпадает с точностью до перестановки
@@ -129,6 +124,10 @@
 - 81 Count Number of Occurrences in a Sorted Array
 - 84 Minimum Operations to Make Array Equal
 - 86 Find Smiles Position
+- 92 [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) - Найти первое вхождение одной строки в другую
+- 93 [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - Найти первое и последнее вхождение в отсортированном списке
+- 94 [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) - Найти K ближайших элементов
+- 95 [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) - Найти количество не пустых подмассивов, сумма которых делится на k
 
 <a name="9_3"></a> 
 ### Изменить
@@ -155,11 +154,11 @@
 - 23 [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
 - 31 [Number of Islands](https://leetcode.com/problems/number-of-islands)
 - 41 [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)
-- 3.36 [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary) - Проложить путь для аэропортов
 - 77 Найти максимальное число постояльцев, которые одновременно проживали в гостинице
 - 82 Minimize the Maximum Difference between Heights
 - 87 Здания, которые могут увидеть закат
 - 88 Здания, которые могут увидеть океан
+- 96 [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary) - Проложить путь для аэропортов
 
 <a name="12"></a> 
 ## [ Математические ]
