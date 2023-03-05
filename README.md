@@ -1,5 +1,16 @@
 # Yandex Inerview Kit
-### Содержание
+
+--- 
+
+## Полезные ссылки:
+- https://proglib.io/p/slozhnost-algoritmov-i-operaciy-na-primere-python-2020-11-03 - сложность операций в Python
+- https://pythonist.ru/obhod-dvoichnogo-dereva-na-python/ - обход дерева
+- https://eddmann.com/posts/depth-first-search-and-breadth-first-search-in-python/ - BFS/DFS
+- https://pythonist.ru/algoritmy-sortirovki-s-python/ - алгоритмы сортировки
+
+---
+
+## Содержание
 1. [Последовательность из 0 и 1](#1)
 2. [Списки](#2)
 3. [Деревья](#3)
@@ -16,15 +27,15 @@
 11. [Жизненные](#11)
 12. [Математические](#12)
 
----
+> Yandex_pt1 [1-34]
 
-> pt.1 [1-34]
+> Yandex_pt2 [35-68]
 
-> pt.2 [35-68]
-
-> pt.3 [69-96]
+> Yandex_pt3 [69-96]
 
 ---
+
+## Задачи
 
 <a name="1"></a> 
 ## [ Последовательность из 0 и 1 ]
@@ -167,4 +178,7 @@
 - 83 Find smallest missing number in sorted array
 
 ## Training list (Yandex_training.ipynb)
+
+Список задач, которые рекомендуют прорешать перед собеседованием
+
 ![Training list](https://github.com/nikolskiyv/algorithm_practice/blob/master/training_list.png)
