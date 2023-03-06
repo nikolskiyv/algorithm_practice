@@ -58,8 +58,8 @@
 ## [ Деревья ]
 - 28 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) Симметричное ли дерево?
 - 30 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) Является ли дерево БДП?
-- 42 [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) - Наименьший общий предок
-- 53 [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)
+- 42 [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) - Наименьший общий предок 
+- 53 [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii) - Есть ссылка на рожителя
 - 60 [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) - вернуть сумму значений всех узлов со значением в диапазоне [low, high]
 - 63 [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) - вернуть максимальную сумму пути любого непустого пути
 - 76 Найти наибольшую сумму в дереве
@@ -75,9 +75,9 @@
 
 <a name="5"></a> 
 ## [ Скобки/полиз ]
-- 13 [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
-- 18 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
-- 45 [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
+- 13 [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) - сгенерировать всевозможные скобочные последовательности
+- 18 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - проверить, сбалансирована ли скобочная последовательность
+- 45 [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) - ПОЛИЗ
 
 <a name="6"></a> 
 ## [ Палиндромы/анаграммы ]
@@ -87,7 +87,7 @@
 <a name="7"></a> 
 ## [ Геометрические ] 
 - 1	[Line Reflection](https://leetcode.com/problems/line-reflection) - существует ли такая прямая, что после отражения всех точек через данную прямую множество исходных точек совпадает с множеством отраженных
-- 55 [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle)
+- 55 [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) - найти наибольший прямоугольник из 1
 - 72 Определить номер первой колонки, в которой есть хоть одна единица
 - 90 Развернуть матрицу на 90 градусов
 - 91 [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) - Генерация спиральной матрицы
@@ -97,9 +97,9 @@
 - 5	[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator)
 - 11 [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)
 - 12 [LRU Cache](https://leetcode.com/problems/lru-cache)
-- 32 [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)
-- 35 [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
-- 52 [Max Stack](https://leetcode.com/problems/max-stack)
+- 32 [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) - [[[1], 2, [4]], [4, [5]]] -> [1, 2, 3, 4, 5] 
+- 35 [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) - реализовать очередь через стек
+- 52 [Max Stack](https://leetcode.com/problems/max-stack) - операции с максимальным числом в стеке
 
 <a name="9"></a> 
 ## [ Строки/массивы ] 
@@ -117,14 +117,13 @@
 - 29 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - Самая длинная подстрока без повторяющихся символов
 - 33 [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) - Найти максимальную длину непустой подстроки, содержащей только один уникальный символ
 - 40 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) - Самая длинная строка палиндром
-- 44 [Missing Number](https://leetcode.com/problems/missing-number) - Вернуть пропущенное число из диапазона [0..n]
 - 46 [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) - Найти средний элемент из двух слитых отсортированных отрезков
-- 43 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) - Пересечение двух массивов
+- 43 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) - Пересечение двух массивов (кол-во сохраняется)
 - 51 [Perfect Squares](https://leetcode.com/problems/perfect-squares) - 12 -> 3 (4 + 4 + 4 = 12)
 - 54 [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters) - Самая длинная подстрока, элементы встречаются максимум два раза
 - 56 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) - [4,6,8,9,1,3] (Найти за nlogn)
-- 57 [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
-- 59 [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) 
+- 57 [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) - два числа, которые дают таргет
+- 59 [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) - минимум в сдвинутом массиве
 - 62 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) - a -> res (res[i] = a[0]*...*a[i-1]*a[i+1]*...)
 - 64 [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) - непрерывная подпоследовательность, которая дает таргет в сумме
 - 66 [Add Strings](https://leetcode.com/problems/add-strings) - Сложить строки как числа
@@ -135,7 +134,7 @@
 - 78 Minimum Window Substring
 - 81 Count Number of Occurrences in a Sorted Array
 - 84 Minimum Operations to Make Array Equal - найти минимальное количество операций, чтобы сделать все элементы равными
-- 86 Find Smiles Position
+- 86 Find Smiles Position - найти в строке позиции смайлов вида :-)
 - 92 [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) - Найти первое вхождение одной строки в другую
 - 93 [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - Найти первое и последнее вхождение в отсортированном списке
 - 94 [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) - Найти K ближайших элементов
@@ -159,14 +158,14 @@
 ## [ Веб ]
 - 17 [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)
 - 21 [Design Hit Counter](https://leetcode.com/problems/design-hit-counter)
-- 47 [Simplify Path](https://leetcode.com/problems/simplify-path)
+- 47 [Simplify Path](https://leetcode.com/problems/simplify-path) - упростить путь url
 - 80 Logger Rate Limiter
 
 <a name="11"></a> 
 ## [ Жизненные ]
-- 20 [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)
-- 23 [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
-- 31 [Number of Islands](https://leetcode.com/problems/number-of-islands)
+- 20 [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person) - посадить человека дальше от всех
+- 23 [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) - найти количество воды после дождя
+- 31 [Number of Islands](https://leetcode.com/problems/number-of-islands) - найти количество островов из 1
 - 41 [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)
 - 77 Найти максимальное число постояльцев, которые одновременно проживали в гостинице
 - 82 Minimize the Maximum Difference between Heights
@@ -176,9 +175,10 @@
 
 <a name="12"></a> 
 ## [ Математические ]
-- 27 [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7)
+- 27 [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7) - реализовать рандомайзер до 10 через ранд до 7
+- 44 [Missing Number](https://leetcode.com/problems/missing-number) - Вернуть пропущенное число из диапазона [0..n]
 - 75 Перевернуть int
-- 83 Find smallest missing number in sorted array
+- 83 Find smallest missing number in sorted array - найти наименьшее пропущенное число
 
 ## Training list (Yandex_training.ipynb)
 
