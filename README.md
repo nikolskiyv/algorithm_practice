@@ -117,11 +117,12 @@
 - 99 Найти индекс подмассива, **сумма которого равна k**
 - 64 [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) - непрерывная подпоследовательность, **сумма которой кратна k**
 - 95 [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) - Найти количество не пустых подмассивов, **сумма которых кратна k**
+- 70 Найти подотрезок с наименьшей суммой по модулю
+- 71 Найти подотрезок с наибольшей суммой
+---
 - 54 [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters) - Самая длинная подстрока, элементы встречаются максимум два раза
 - 29 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - Самая длинная подстрока без повторяющихся символов
 - 33 [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) - Найти максимальную длину непустой подстроки, содержащей только один уникальный символ
-- 70 Найти подотрезок с наименьшей суммой по модулю
-- 71 Найти подотрезок с наибольшей суммой
 - 74 Найти подстроку, которая совпадает с точностью до перестановки
 - 40 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) - Самая длинная подстрока палиндром
 - 78 Minimum Window Substring - минимальная подстрока, содержащая перестановку
