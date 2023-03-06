@@ -40,7 +40,7 @@
 
 <a name="1"></a> 
 ## [ Последовательность из 0 и 1 ]
-- 2	[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)
+- 2	[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) - можно удалить один элемент
 - 19 [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii) - можете превратить в 1 не более одного 0
 - 39 [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) - вы можете поменять не более k нулей на 1
 - 69 Максимальная длина из "1" после удаления одного "0"
@@ -59,7 +59,7 @@
 - 28 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) Симметричное ли дерево?
 - 30 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) Является ли дерево БДП?
 - 42 [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) - Наименьший общий предок 
-- 53 [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii) - Есть ссылка на рожителя
+- 53 [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii) - Есть ссылка на родителя
 - 60 [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) - вернуть сумму значений всех узлов со значением в диапазоне [low, high]
 - 63 [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) - вернуть максимальную сумму пути любого непустого пути
 - 76 Найти наибольшую сумму в дереве
@@ -82,7 +82,7 @@
 <a name="6"></a> 
 ## [ Палиндромы/анаграммы ]
 - 6	[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
-- 26 [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
+- 26 [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) - найти начальные мндексы анаграм
 
 <a name="7"></a> 
 ## [ Геометрические ] 
@@ -123,9 +123,11 @@
 - 54 [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters) - Самая длинная подстрока, элементы встречаются максимум два раза
 - 29 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - Самая длинная подстрока без повторяющихся символов
 - 33 [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) - Найти максимальную длину непустой подстроки, содержащей только один уникальный символ
+---
 - 74 Найти подстроку, которая совпадает с точностью до перестановки
 - 40 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) - Самая длинная подстрока палиндром
 - 78 Minimum Window Substring - минимальная подстрока, содержащая перестановку
+---
 - 24 [Two Sum](https://leetcode.com/problems/two-sum) - Найти два числа, которые дают таргет
 - 57 [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) - два числа, которые дают таргет
 - 96 3 Sum - Найти три числа, которые дают таргет
@@ -141,7 +143,7 @@
 - 94 [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) - Найти K ближайших элементов
 - 81 Count Number of Occurrences in a Sorted Array - в отсортированном массивее найти количество вхождений
 - 92 [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) - Найти первое вхождение одной строки в другую
-- 93 [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - Найти первое и последнее вхождение в отсортированном списке
+- 93 [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - Найти первое и последнее вхождение элемента в отсортированном списке
 
 <a name="9_3"></a> 
 ### Изменить
@@ -154,7 +156,7 @@
 - 58 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - [0,0,1,1,1,2,2,3,3,4] -> [0,1,2,3,4,,,,,]
 - 61 [Partition Labels](https://leetcode.com/problems/partition-labels) - Разделить строку на как можно больше частей, чтобы каждая буква встречалась не более чем в одной части
 - 65 [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) - Перевернуть все слова в строке
-- 85 Remove All Occurrences of a Substring
+- 85 Remove All Occurrences of a Substring - "axxxxyyyyb", "xy" -> "ab"
 
 <a name="10"></a> 
 ## [ Веб ]
