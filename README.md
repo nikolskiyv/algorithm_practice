@@ -65,6 +65,7 @@
 - 76 Найти наибольшую сумму в дереве
 - 79 Binary Tree Zigzag Level Order Traversal - вывести древо зигзагом
 - 89 Сериализация/десериализация BST 
+- 97 Path Sum - Существует ли путь от корня до листа, который равен таргету?
 
 <a name="4"></a> 
 ## [ Отрезки ]
@@ -139,6 +140,7 @@
 - 93 [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - Найти первое и последнее вхождение в отсортированном списке
 - 94 [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) - Найти K ближайших элементов
 - 95 [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) - Найти количество не пустых подмассивов, сумма которых делится на k
+- 96 3 Sum - Найти три числа, которые дают таргет
 
 <a name="9_3"></a> 
 ### Изменить
