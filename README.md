@@ -105,41 +105,44 @@
 ## [ Строки/массивы ] 
 <a name="9_1"></a> 
 ### Проверить
+- 7	[One Edit Distance](https://leetcode.com/problems/one-edit-distance) - Строку можно получить из другой одним редактированием
 - 15 [Permutation in String](https://leetcode.com/problems/permutation-in-string) - Вернуть true, если одна из перестановок s1 является подстрокой s2.
 - 48 [Is Subsequence](https://leetcode.com/problems/is-subsequence) - Является ли одна строка подпоследовательностью другой
 - 73 Можно ли получить одну строку из другой за <= 1 одно исправление
 
 <a name="9_2"></a> 
 ### Найти
-- 7	[One Edit Distance](https://leetcode.com/problems/one-edit-distance) - Строку можно получить из другой одним редактированием
-- 8	[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) - Вернуть общее количество подмассивов, сумма которых равна k
-- 24 [Two Sum](https://leetcode.com/problems/two-sum) - Найти два числа, которые дают таргет
+
+- 8	[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) - Вернуть общее количество подмассивов, **сумма которых равна k**
+- 99 Найти индекс подмассива, **сумма которого равна k**
+- 64 [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) - непрерывная подпоследовательность, **сумма которой кратна k**
+- 95 [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) - Найти количество не пустых подмассивов, **сумма которых кратна k**
+- 
+- 54 [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters) - Самая длинная подстрока, элементы встречаются максимум два раза
 - 29 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - Самая длинная подстрока без повторяющихся символов
 - 33 [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) - Найти максимальную длину непустой подстроки, содержащей только один уникальный символ
-- 40 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) - Самая длинная строка палиндром
-- 46 [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) - Найти средний элемент из двух слитых отсортированных отрезков
-- 43 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) - Пересечение двух массивов (кол-во сохраняется)
-- 51 [Perfect Squares](https://leetcode.com/problems/perfect-squares) - 12 -> 3 (4 + 4 + 4 = 12)
-- 54 [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters) - Самая длинная подстрока, элементы встречаются максимум два раза
-- 56 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) - [4,6,8,9,1,3] (Найти за nlogn)
-- 57 [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) - два числа, которые дают таргет
-- 59 [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) - минимум в сдвинутом массиве
-- 62 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) - a -> res (res[i] = a[0]*...*a[i-1]*a[i+1]*...)
-- 64 [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) - непрерывная подпоследовательность, которая дает таргет в сумме
-- 66 [Add Strings](https://leetcode.com/problems/add-strings) - Сложить строки как числа
-- 68 [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) - Найти индекс первого уникального символа
+- 
 - 70 Найти подотрезок с наименьшей суммой по модулю
 - 71 Найти подотрезок с наибольшей суммой
 - 74 Найти подстроку, которая совпадает с точностью до перестановки
-- 78 Minimum Window Substring
-- 81 Count Number of Occurrences in a Sorted Array
+- 40 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) - Самая длинная подстрока палиндром
+- 78 Minimum Window Substring - минимальная подстрока, содержащая перестановку
+- 24 [Two Sum](https://leetcode.com/problems/two-sum) - Найти два числа, которые дают таргет
+- 57 [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) - два числа, которые дают таргет
+- 96 3 Sum - Найти три числа, которые дают таргет
+- 46 [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) - Найти средний элемент из двух слитых отсортированных отрезков
+- 43 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) - Пересечение двух массивов (кол-во сохраняется)
+- 51 [Perfect Squares](https://leetcode.com/problems/perfect-squares) - 12 -> 3 (4 + 4 + 4 = 12)
+- 56 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) - [4,6,8,9,1,3] (Найти за nlogn)
+- 59 [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) - минимум в сдвинутом массиве
+- 62 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) - a -> res (res[i] = a[0]*...*a[i-1]*a[i+1]*...)
+- 68 [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) - Найти индекс первого уникального символа
 - 84 Minimum Operations to Make Array Equal - найти минимальное количество операций, чтобы сделать все элементы равными
 - 86 Find Smiles Position - найти в строке позиции смайлов вида :-)
+- 94 [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) - Найти K ближайших элементов
+- 81 Count Number of Occurrences in a Sorted Array - в отсортированном массивее найти количество вхождений
 - 92 [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) - Найти первое вхождение одной строки в другую
 - 93 [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - Найти первое и последнее вхождение в отсортированном списке
-- 94 [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) - Найти K ближайших элементов
-- 95 [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) - Найти количество не пустых подмассивов, сумма которых делится на k
-- 96 3 Sum - Найти три числа, которые дают таргет
 
 <a name="9_3"></a> 
 ### Изменить
@@ -177,6 +180,7 @@
 ## [ Математические ]
 - 27 [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7) - реализовать рандомайзер до 10 через ранд до 7
 - 44 [Missing Number](https://leetcode.com/problems/missing-number) - Вернуть пропущенное число из диапазона [0..n]
+- 66 [Add Strings](https://leetcode.com/problems/add-strings) - Сложить строки как числа
 - 75 Перевернуть int
 - 83 Find smallest missing number in sorted array - найти наименьшее пропущенное число
 
